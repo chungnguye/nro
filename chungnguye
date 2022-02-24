@@ -1,0 +1,7 @@
+echo "# nro" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git nhánh -M main 
+git từ xa thêm origin https://github.com/chungnguye/nro.git
+ git push - xuất xứ chính của u
